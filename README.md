@@ -213,6 +213,4 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 ## Author
 
-**Manoj Kumar**
-**Aspiring Data Analyst**
-**LinkedIn**:https://www.linkedin.com/in/manoj---kumar-s
+This project is part of my Data Analytics portfolio, showcasing SQL skills essential for a Data Analyst role.
